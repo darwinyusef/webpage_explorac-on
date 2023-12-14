@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Test e Inducción",
+      "descripcion": "Evalúa habilidades a través de Test de Inteligencias múltiples, WISC - V, test de personalidad y veremos como es iniciar en este mundo de la exploración de talentos a través de una inducción.",
+      "audioTema": "Test induccion",
+      "audioUrl": "/audio/necesidades.mp3",
+      "tematicas": [
+        {
+          "id": "01",
+          "tematica": "Test de Inteligencias múltiples",
+          "imagen": "/img/01.jpg"
+        },
+        { "id": "02", "tematica": "Test WISC - V", "imagen": "/img/02.jpg" },
+        { "id": "03", "tematica": "Inducción", "imagen": "/img/03.jpg" },
+        {
+          "id": "27",
+          "tematica": "Test de personalidad",
+          "imagen": "/img/04.jpg"
+        }
+      ]
+    },
+    {
+      "titulo": "Lengua Cultura y Literatura",
+      "descripcion": "Sumérgete en la riqueza de los idiomas, la lectura y la escritura.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        { "id": "26", "tematica": "Idiomas", "imagen": "/img/03.jfif" },
+        {
+          "id": "25",
+          "tematica": "Lectura y Escritura",
+          "imagen": "/img/21.jfif"
+        },
+        {
+          "id": "28",
+          "tematica": "Exploración cultural",
+          "imagen": "/img/25.jpg"
+        },
+
+        { "id": "20", "tematica": "Origami", "imagen": "/img/18.jfif" }
+      ]
+    },
+    {
+      "titulo": "Economía y Política",
+      "descripcion": "Explora el mundo económico y político con enfoque en emprendimiento y ética.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        { "id": "04", "tematica": "Emprendimiento", "imagen": "/img/06.jpg" },
+        {
+          "id": "04",
+          "tematica": "Economias personales",
+          "imagen": "/img/07.jpg"
+        },
+        { "id": "28", "tematica": "Historia", "imagen": "/img/14.jfif" },
+        { "id": "29", "tematica": "Política", "imagen": "/img/05.jpg" },
+        { "id": "05", "tematica": "Ética y Persona", "imagen": "/img/87.jfif" }
+      ]
+    },
+    {
+      "titulo": "Medio Ambiente y Sostenibilidad",
+      "descripcion": "Aborda temas ambientales, biología, geografía y sostenibilidad.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        {
+          "id": "06",
+          "tematica": "Biología y Medio Ambiente",
+          "imagen": "/img/08.jpg"
+        },
+        { "id": "07", "tematica": "Geografía", "imagen": "/img/10.jpg" },
+        {
+          "id": "07",
+          "tematica": "Agricultura y alimentos",
+          "imagen": "/img/13.jfif"
+        },
+        { "id": "08", "tematica": "Sostenibilidad", "imagen": "/img/09.jpg" },
+        { "id": "08", "tematica": "Supervivencia", "imagen": "/img/12.jpg" }
+      ]
+    },
+    {
+      "titulo": "Tecnologías y Ciencias",
+      "descripcion": "Involúcrate en disciplinas tecnológicas, científicas y de comunicación.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        { "id": "21", "tematica": "Química", "imagen": "/img/11.jpg" },
+        { "id": "09", "tematica": "Ciencias", "imagen": "/img/04.jfif" },
+        {
+          "id": "10",
+          "tematica": "Tecnología y Programación",
+          "imagen": "/img/16.jpg"
+        },
+        { "id": "28", "tematica": "Matemáticas", "imagen": "/img/11.jfif" },
+        { "id": "28", "tematica": "Electrónica", "imagen": "/img/13.jpg" },
+        {
+          "id": "29",
+          "tematica": "Electrónica - IOT",
+          "imagen": "/img/14.jpg"
+        },
+        {
+          "id": "24",
+          "tematica": "Diseño Grafico e ilustración",
+          "imagen": "/img/59.jfif"
+        },
+        { "id": "12", "tematica": "Artes Digitales", "imagen": "/img/15.jpg" }
+      ]
+    },
+    {
+      "titulo": "Artes y Humanidades",
+      "descripcion": "Explora diversas expresiones artísticas, filosofía y idiomas.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        {
+          "id": "16",
+          "tematica": "Música e interpretación",
+          "imagen": "/img/08.jfif"
+        },
+
+        {
+          "id": "11",
+          "tematica": "Comunicaciones y Periodismo",
+          "imagen": "/img/17.jpg"
+        },
+        {
+          "id": "16",
+          "tematica": "Producción músical",
+          "imagen": "/img/09.jfif"
+        },
+        {
+          "id": "13",
+          "tematica": "Filosofía",
+          "imagen": "/img/19.jpg"
+        },
+        { "id": "27", "tematica": "Arquitectura", "imagen": "/img/20.jpg" },
+        { "id": "23", "tematica": "Religión", "imagen": "/img/21.jpg" },
+        { "id": "14", "tematica": "Psicología", "imagen": "/img/12.jfif" },
+        { "id": "24", "tematica": "Artes Visuales", "imagen": "/img/06.jfif" },
+
+        { "id": "23", "tematica": "Moda y Modelaje", "imagen": "/img/18.jpg" }
+      ]
+    },
+    { 
+      "titulo": "Entretenimiento",
+      "descripcion": "Sumérgete en el mundo del cine, música, teatro y fotografía.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        { "id": "15", "tematica": "Cine y Video", "imagen": "/img/22.jpg" },
+        {
+          "id": "19",
+          "tematica": "Trasmision en vivo",
+          "imagen": "/img/25.jfif"
+        },
+        {
+          "id": "17",
+          "tematica": "Teatro y Actuación",
+          "imagen": "/img/23.jpg"
+        },
+        { "id": "18", "tematica": "Fotografía", "imagen": "/img/160.jfif" },
+        { "id": "18", "tematica": "Influencer", "imagen": "/img/66.jfif" }
+      ]
+    },
+    {
+      "titulo": "Deporte y Salud",
+      "descripcion": "Enfócate en actividades físicas, medicina y bienestar.",
+      "audioTema": "El material de las cosas",
+      "audioUrl": "/audio/testinduccion.mp3",
+      "tematicas": [
+        {
+          "id": "19",
+          "tematica": "Deportes y Kinestésica",
+          "imagen": "/img/102.jfif"
+        },
+        {
+          "id": "20",
+          "tematica": "Medicina y bienestar",
+          "imagen": "/img/24.jpg"
+        }
+      ]
+    }
+  ]
+}
