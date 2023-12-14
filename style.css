@@ -8456,16 +8456,51 @@ h1.colour {
 .navegation {
   position: fixed;
   right: 50px;
-  top: 50%;
+  top: 35%;
   z-index: 999999999;
 }
 
 .navegation .principal-nav li {
   list-style: none;
+  position: relative;
 }
+
+.principal-nav li span {
+  font-weight: bold;
+  position: absolute;
+  top: 9px;
+  right: 22px;
+  color: rgba(0, 0, 0, 0.0);
+}
+
 
 .principal-nav li a i {
   font-size: 35px;
   margin-bottom: 8px;
-  color: black; 
+  color: rgba(0, 0, 0, 0.40);
+}
+
+.principal-nav li:hover span,
+.principal-nav li:hover a i {
+  color: rgba(0, 0, 0, 1);
+}
+
+.float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
+
+.my-float {
+  margin-top: 15px;
+  margin-left: -8px;
 }
